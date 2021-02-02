@@ -19,3 +19,5 @@ This is my list
 y=2
 z=sqrt(2);
 ```
+# Embedding a Video
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aWhXUMbmHCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
