@@ -10,7 +10,7 @@ nav_order: 1
 This is my list 
 * this is the first item
 * this is the second item
-- guides.github.com/features/mastering-markdown/ for Markdown commands 
+- [Link for Markdown commands!] (guides.github.com/features/mastering-markdown/) 
 
 ![A very good red panda looking into the camera](https://cdn.cnn.com/cnnnext/dam/assets/200227103054-red-panda-stock-exlarge-169.jpg)
 
