@@ -4,7 +4,7 @@ layout: default
 nav_order: 1 
 ---
 
-# Hello World! 
+# Hello World! :performing_arts:
 
 ## Some Markdown Shortcuts 
 This is my list 
@@ -19,5 +19,15 @@ This is my list
 y=2
 z=sqrt(2);
 ```
+
+# A Table 
+Day | Average Temperature
+------------ | -------------
+Monday | 10 
+Tuesday | 8
+Wednesday | 5
+Thursday | 9
+Friday | 12
+
 # Embedding a Video
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/aWhXUMbmHCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
