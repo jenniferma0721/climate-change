@@ -40,3 +40,12 @@ CH<sub>4</sub>
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 * if something doesn't look right, go back to the code from the preview and check 
 
+---
+title: Embedding Media
+layout: default
+nav_order: 3
+---
+
+# Embedding a Video
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aWhXUMbmHCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
